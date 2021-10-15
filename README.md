@@ -1,10 +1,10 @@
 
-  # no
-  ![GitHub License](https://img.shields.io/badge/license-GPL.3.0-blue.svg)
+  # README.md Generator
+  ![GitHub License](https://img.shields.io/badge/license-GPL_3.0-blue.svg)
   
   ## Description
   
-  no
+  This is a command line application that generates a professional readme file from a users input
   
   ## Table of Contents
   
@@ -29,15 +29,15 @@
       
   ## Usage
   
-  no
+  The application will save the users input after the application runs successfully.
   
   ## License
          
-      This project is licensed under the GPL. 3.0 license.
+      This project is licensed under the GPL_3.0 license.
   
   ## Contributing
   
-  no
+  The user will have to add a contrubtion file.
   
   ## Tests
   
@@ -49,6 +49,6 @@
   
   ## Questions
   
-  If you have any questions, open an issue or contact [no](no) at no.
+  If you have any questions, open an issue or contact [jmoniz155](https://github.com/jmoniz155/professional-readme-generator) at jmoniz155@icloud.com.
   
   
