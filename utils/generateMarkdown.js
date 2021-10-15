@@ -7,10 +7,7 @@ function generateProjectUrl(github, title) {
   // If there is no license, return an empty string
   function renderLicenseBadge(license, github, title) {
     if (license !== "None") {
-      return `[![GitHub License](https://img.shields.io/badge/license-${license}-blue.svg)](${generateProjectUrl(
-        github,
-        title
-      )})`;
+      return `![GitHub License](https://img.shields.io/badge/license-${license}-blue.svg)`;
     }
     return "";
   }
